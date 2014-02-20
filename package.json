@@ -1,0 +1,9 @@
+{
+  "name": "segmentio-sse",
+  "description": "A nice Server-Sent Events api",
+  "version": "0.0.5",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT"
+}
